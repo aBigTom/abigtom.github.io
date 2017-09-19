@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: A Big Tom #Your awesome site name :)
-header: Stay Hungry,Stay Foolish. #Write something about you here...
+header: Something just like this. #Write something about you here...
 
 # for welcome page
 # to replace image go to index.html
@@ -20,7 +20,7 @@ disqus:
 
 # google analytics
 google:
-    tracking-id: "zidong" #your tracking id here
+    tracking-id: "" #your tracking id here
 
 gems:
   - jekyll-sitemap
